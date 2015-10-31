@@ -1,0 +1,4 @@
+Abstract- This paper introduces a new mechanism for load balancing in a network. Load balancing is a computer networking method for distributing workload across multiple computing resources such as computers, a computer cluster network links, central  processing units or disk drives. Load Balancing is usually provided by dedicated software or hardware, such as a multilayer switch or Domain Name System Sever Process. There are various algorithms to perform load balancing. In this paper we will discuss how to perform load balancing using heaps and discuss the advantage and disadvantages of using this method to perform load balancing.
+
+Link for the paper:
+http://www.ijsrp.org/research-paper-1014/ijsrp-p3476.pdf 
