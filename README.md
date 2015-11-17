@@ -1,2 +1,2 @@
 # Publications
-All of my Publications till data
+All of my Publications till date
